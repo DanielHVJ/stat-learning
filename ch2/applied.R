@@ -123,6 +123,8 @@ pairs(Boston)
 # dis: lstat
 # lstat: medv
 
+# All correlations are significant, it requires more analysis.
+
 # (c)
 plot(Boston$age, Boston$crim)
 # Older homes, more crime
